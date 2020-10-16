@@ -12,7 +12,7 @@ Discuss papers on data-driven approaches in Software Engineering and Machine Lea
 ## Goal
 
 - promote reading papers
-- rise awareness on current research directions in PL, SW, and ML communities
+- rise awareness on current research directions in PL, SE, and ML communities
 - create opportunity for collaborations
 
 
