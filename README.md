@@ -25,7 +25,7 @@ Anyone can add a comment the sessions's document on [GDrive](https://drive.googl
 
 ## When
 
-Every month, on Fridays at 5pm CET.
+Every month, on Fridays at 4pm CET.
 
 
 ## Where
