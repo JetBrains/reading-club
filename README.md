@@ -3,9 +3,12 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
+ - **Nov**: TBD (Fri, 16:00 CET)
 
- - **Oct 30rd, 17:00 CET**
-    [How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset](https://drive.google.com/file/d/1UjugdnfAvXXuXFe9LtwnLOjnviX2PP6w/view?usp=sharing) ([questions](https://docs.google.com/document/d/1crcXMEw4o4pZzi4Ak2ETSDlUkcZkj7ZXK_MfpoeWQ4Y/edit#))
+
+## Past sessions
+ - **Oct 30rd**
+    [How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset](https://drive.google.com/file/d/1UjugdnfAvXXuXFe9LtwnLOjnviX2PP6w/view?usp=sharing) ([questions](https://docs.google.com/document/d/1crcXMEw4o4pZzi4Ak2ETSDlUkcZkj7ZXK_MfpoeWQ4Y/edit#)) </br>
     Rafael-Michael Karampatsis, University of Edinburgh (MSR 2021 [Mining challenge](https://conf.researchr.org/track/msr-2021/msr-2021-mining-challenge#Call-for-Mining-Challenge-Papers))
 
 
