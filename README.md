@@ -3,7 +3,9 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - **Nov**: TBD (Fri, 16:00 CET)
+ - **Dec 11th, 17:00 GMT+1 (10:00 GMT-6)**
+   [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://drive.google.com/file/d/1fADxQ7fkRf-7Y_S00pX476Th9zFkkWYr/view) ([questions](https://docs.google.com/document/d/1DMJqysL_BBJxiXiFvSl-VotYykrwPcbk_pEhMQ1ph4U/edit)) </br>
+   Jiayi Wei (魏家), UT Austin (ICLR '20)
 
 
 ## Past sessions
