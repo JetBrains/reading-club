@@ -6,11 +6,11 @@ Discuss papers on data-driven approaches in Software Engineering and Machine Lea
  - TBD January, Fri 16:00 GMT+1
 
 ## Past sessions
- - **Dec 11th** </br>
-   [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://drive.google.com/file/d/1fADxQ7fkRf-7Y_S00pX476Th9zFkkWYr/view) ([questions](https://docs.google.com/document/d/1DMJqysL_BBJxiXiFvSl-VotYykrwPcbk_pEhMQ1ph4U/edit)) </br>
+ - **Dec 11**
+    [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://drive.google.com/file/d/1fADxQ7fkRf-7Y_S00pX476Th9zFkkWYr/view) ([questions](https://docs.google.com/document/d/1DMJqysL_BBJxiXiFvSl-VotYykrwPcbk_pEhMQ1ph4U/edit)) </br>
    Jiayi Wei (魏家一), UT Austin (ICLR '20)
 
- - **Oct 30rd**
+ - **Oct 30**
     [How Often Do Single-Statement Bugs Occur? The ManySStuBs4J Dataset](https://drive.google.com/file/d/1UjugdnfAvXXuXFe9LtwnLOjnviX2PP6w/view?usp=sharing) ([questions](https://docs.google.com/document/d/1crcXMEw4o4pZzi4Ak2ETSDlUkcZkj7ZXK_MfpoeWQ4Y/edit#)) </br>
     Rafael-Michael Karampatsis, University of Edinburgh (MSR 2021 [Mining challenge](https://conf.researchr.org/track/msr-2021/msr-2021-mining-challenge#Call-for-Mining-Challenge-Papers))
 
