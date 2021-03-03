@@ -31,7 +31,7 @@ Anyone can add a comment the sessions's document on [GDrive](https://drive.googl
 
 ## When
 
-Every month, on Fridays at 4pm CET
+Monthly, on Fridays
 
 
 ## Where
