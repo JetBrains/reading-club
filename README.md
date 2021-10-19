@@ -3,7 +3,7 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - TBD March, Fri
+ - TBD, Fri
 
 ## Past sessions
  - **Dec 11**
