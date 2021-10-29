@@ -3,7 +3,7 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - **Oct 29th, 16:00 GMT+1** ([📅 event](https://jetbrains.team/meetings/1nCQHY27gL6N?date=2021-10-29))</br> 
+ - **Oct 29th, 16:00 GMT+2** ([📅 event](https://jetbrains.team/meetings/1nCQHY27gL6N?date=2021-10-29))</br> 
     [FACER-AS: An API Usage-based Code Recommendation Tool for Android Studio](https://drive.google.com/file/d/1Nulfb60J4hnjzvckBj35wp5BWOQzvmJ8/view?usp=sharing) ([questions](https://docs.google.com/document/d/1Ee7T3Vap_ImpMR0cFzvjUysSuXAzqZzy9WaESq1XhPE/edit?usp=sharing)) </br>
    Shamsa Abid, LUMS - Lahore University of Management Sciences (ICSME '21)
 
