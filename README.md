@@ -3,8 +3,9 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - TBD
-
+ - **Dec 17th, 15:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/m/Alexander.Bezzubov/calendar?date=2022-01-11))</br> 
+    [“APIScanner - Towards Automated Detection of Deprecated APIs in Python Libraries”](https://drive.google.com/file/d/1L9gX3Eu4DBf0sS_1XyCvrApuOOZ7x-51/view?usp=sharing) ([questions](https://docs.google.com/document/d/1MeKrThVYIUrWBhMzWTwBmbsCswlkPY1RufWZocml2rA/edit?usp=sharing)) </br>
+   Dr. Sridhar Chimalakonda, Intelligent Software & Analytics Lab, IIT Tirupati (ICSE '21)
 
 ## Past sessions
  - **Oct 29** [FACER-AS: An API Usage-based Code Recommendation Tool for Android Studio](https://drive.google.com/file/d/1Nulfb60J4hnjzvckBj35wp5BWOQzvmJ8/view?usp=sharing) ([questions](https://docs.google.com/document/d/1Ee7T3Vap_ImpMR0cFzvjUysSuXAzqZzy9WaESq1XhPE/edit?usp=sharing)) </br>
