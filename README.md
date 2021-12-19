@@ -3,11 +3,18 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - **Dec 17th, 14:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/meetings/1JnoQr0g1W4m))</br> 
+ - Jan 14, 16:00 CET (GMT+1) _tentative_ ([📅 event](https://jetbrains.team/meetings/1JnoQr0g1W4m))</br> 
+    [“In-IDE Code Generation from Natural Language: Promise and Challenges”](https://arxiv.org/abs/2101.11149) ([questions](#)) </br>
+   Frank F. Xu, Language Technologies Institute of CMU (ACM TOSEM '21)
+
+## Past sessions
+
+### 2021
+
+- **Dec 17th, 14:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/meetings/1JnoQr0g1W4m))</br> 
     [“APIScanner - Towards Automated Detection of Deprecated APIs in Python Libraries”](https://drive.google.com/file/d/1L9gX3Eu4DBf0sS_1XyCvrApuOOZ7x-51/view?usp=sharing) ([questions](https://docs.google.com/document/d/1MeKrThVYIUrWBhMzWTwBmbsCswlkPY1RufWZocml2rA/edit?usp=sharing)) </br>
    Dr. Sridhar Chimalakonda, Intelligent Software & Analytics Lab, IIT Tirupati (ICSE '21)
 
-## Past sessions
  - **Oct 29** [FACER-AS: An API Usage-based Code Recommendation Tool for Android Studio](https://drive.google.com/file/d/1Nulfb60J4hnjzvckBj35wp5BWOQzvmJ8/view?usp=sharing) ([questions](https://docs.google.com/document/d/1Ee7T3Vap_ImpMR0cFzvjUysSuXAzqZzy9WaESq1XhPE/edit?usp=sharing)) </br>
    Shamsa Abid, LUMS - Lahore University of Management Sciences (ICSME '21)
 
