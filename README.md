@@ -3,8 +3,8 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - Jan 14, 16:00 CET (GMT+1) _tentative_ ([📅 event](https://jetbrains.team/meetings/1JnoQr0g1W4m))</br> 
-    [“In-IDE Code Generation from Natural Language: Promise and Challenges”](https://arxiv.org/abs/2101.11149) ([questions](#)) </br>
+ - **Jan 14, 16:00 CET (GMT+1) / 10:00am EST** ([📅 event](https://jetbrains.team/meetings/1JnoQr0g1W4m))</br> 
+    [“In-IDE Code Generation from Natural Language: Promise and Challenges”](https://drive.google.com/file/d/1xDQKT-oeqYlo-3akwqKz007Yn8fQXI5o/view?usp=sharing) ([questions](https://docs.google.com/document/d/1eni_zJvU9qL7oo8xKfisR3yREj4g5UhwG2MIRulb7PY/edit)) </br>
    Frank F. Xu, Language Technologies Institute of CMU (ACM TOSEM '21)
 
 ## Past sessions
