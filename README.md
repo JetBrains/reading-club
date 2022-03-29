@@ -3,7 +3,7 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - **Mar 11, 17:00 CET (GMT+1) / 9:00am MST** ([📅 event](https://jetbrains.team/meetings/JcRst08Vxnk?date=2022-03-11))</br> 
+ - **Apr 1, 17:00 CEST (GMT+2) / 8:00am PDT** ([📅 event](https://jetbrains.team/meetings/437epd4KHgN9?date=2022-04-01))</br> 
     [“A Systematic Comparison of Two Refactoring-aware Merging Techniques”](https://drive.google.com/file/d/1P7XssemQsJgQ2w5noeS_yJoK6IIXxRKB/view?usp=sharing) ([questions](https://docs.google.com/document/d/1LfnDhUjTAabgB2D2DpbVa3PHsIwGRpdGcewhX4YZr1Y/edit?usp=sharing)) </br>
    Max Ellis, Software Maintenance and Reuse (SMR) Lab at the University of Alberta (pre-print)
 
