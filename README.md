@@ -3,13 +3,14 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - **Apr 1, 17:00 CEST (GMT+2) / 8:00am PDT** ([📅 event](https://jetbrains.team/meetings/437epd4KHgN9?date=2022-04-01))</br> 
-    [“A Systematic Comparison of Two Refactoring-aware Merging Techniques”](https://drive.google.com/file/d/1P7XssemQsJgQ2w5noeS_yJoK6IIXxRKB/view?usp=sharing) ([questions](https://docs.google.com/document/d/1LfnDhUjTAabgB2D2DpbVa3PHsIwGRpdGcewhX4YZr1Y/edit?usp=sharing)) </br>
-   Max Ellis, Software Maintenance and Reuse (SMR) Lab at the University of Alberta (pre-print)
+ - TBD
 
 ## Past sessions
 
 ### 2022
+
+ - **Apr 1** [“A Systematic Comparison of Two Refactoring-aware Merging Techniques”](https://drive.google.com/file/d/1P7XssemQsJgQ2w5noeS_yJoK6IIXxRKB/view?usp=sharing) ([questions](https://docs.google.com/document/d/1LfnDhUjTAabgB2D2DpbVa3PHsIwGRpdGcewhX4YZr1Y/edit?usp=sharing)) </br>
+   Max Ellis, Software Maintenance and Reuse (SMR) Lab at the University of Alberta (pre-print)
 
  - **Jan 14** [“In-IDE Code Generation from Natural Language: Promise and Challenges”](https://drive.google.com/file/d/1Oimqq8_A_TyAQVbWSYO24K95nVEQtcbO/view?usp=sharing) ([questions](https://docs.google.com/document/d/1eni_zJvU9qL7oo8xKfisR3yREj4g5UhwG2MIRulb7PY/edit)) </br>
    Frank F. Xu, Language Technologies Institute of CMU (ACM TOSEM '21)
