@@ -3,7 +3,9 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - TBD
+ - **Dec 23, 16:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/meetings/1OFifn1UwlT8))</br> 
+    ["Modus: A Datalog Dialect for Building Container Images"](https://drive.google.com/file/d/1gtz4UBRY3iX-0x6R9qn4aIzgTPvBo9Mo/view?usp=sharing) ([questions](https://docs.google.com/document/d/1mkZ0Odub7V8ey0RNSZCfmmZyx41FWsdmdN7TrObjgvU/edit?usp=sharing)) </br>
+   Dr. Sergey Mechtaev, Department of Computer Science at UCL (FSE '22)
 
 ## Past sessions
 
