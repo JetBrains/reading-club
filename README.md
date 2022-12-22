@@ -3,13 +3,15 @@
 Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
 
 ## Upcoming sessions
- - **Dec 22, 16:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/meetings/1OFifn1UwlT8))</br> 
-    ["Modus: A Datalog Dialect for Building Container Images"](https://drive.google.com/file/d/1gtz4UBRY3iX-0x6R9qn4aIzgTPvBo9Mo/view?usp=sharing) ([questions](https://docs.google.com/document/d/1mkZ0Odub7V8ey0RNSZCfmmZyx41FWsdmdN7TrObjgvU/edit?usp=sharing)) </br>
-   Dr. Sergey Mechtaev, Department of Computer Science at UCL (FSE '22)
+ - TBD
 
 ## Past sessions
 
 ### 2022
+
+ - **Dec 22** ["Modus: A Datalog Dialect for Building Container Images"](https://drive.google.com/file/d/1gtz4UBRY3iX-0x6R9qn4aIzgTPvBo9Mo/view?usp=sharing) ([questions](https://docs.google.com/document/d/1mkZ0Odub7V8ey0RNSZCfmmZyx41FWsdmdN7TrObjgvU/edit?usp=sharing)) </br>
+   Dr. Sergey Mechtaev, Department of Computer Science at UCL (FSE '22)
+
 
  - **Apr 1** [“A Systematic Comparison of Two Refactoring-aware Merging Techniques”](https://drive.google.com/file/d/1P7XssemQsJgQ2w5noeS_yJoK6IIXxRKB/view?usp=sharing) ([questions](https://docs.google.com/document/d/1LfnDhUjTAabgB2D2DpbVa3PHsIwGRpdGcewhX4YZr1Y/edit?usp=sharing)) </br>
    Max Ellis, Software Maintenance and Reuse (SMR) Lab at the University of Alberta (pre-print)
