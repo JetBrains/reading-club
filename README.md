@@ -1,9 +1,11 @@
 # JetBrains Open Reading Club
 
-Discuss papers on data-driven approaches in Software Engineering and Machine Learning fields.
+Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - TBD
+ - **March 3, 16:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/meetings/1PXUIs0LdE8y?date=2023-03-03))</br> 
+    ["DiffSearch: A Scalable and Precise Search Engine for Code Changes"](https://drive.google.com/file/d/1DG7N3jo7YK1tXAFFr7H33MijBubm0Og4/view?usp=sharing) ([questions](https://docs.google.com/document/d/1VGpTwUzxiwmahINcYlchjYOIcfIHaCFObHoozytwrrc/edit?usp=sharing)) </br>
+   Luca Di Grazia, Software Lab at Stuttgart Universität (IEEE Transactions on SE '22)
 
 ## Past sessions
 
