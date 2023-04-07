@@ -3,7 +3,9 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - TBD
+ -  **April 21, 16:00 CET (GMT+1)** ([📅 event](https://jetbrains.team/meetings/1PXUIs0LdE8y?date=2023-03-03))</br> 
+    Source Code Diff Revolution  ([questions](https://docs.google.com/document/d/1OCutCmaHb-birSPHMq1GVnXqHhfIxiu8ysfrpC52z58/edit)) </br>
+    Prof. [Nikolaos Tsantalis](https://users.encs.concordia.ca/~nikolaos/), CS and SE at  Concordia Univ., Montreal, Canada
  
 ## Past sessions
 
