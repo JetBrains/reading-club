@@ -3,7 +3,8 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - TBD
+ - **March 13** [Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)](https://arxiv.org/abs/2304.06815) </br>
+   Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
  
 ## Past sessions
 
