@@ -3,10 +3,15 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - **March 13** [Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)](https://drive.google.com/file/d/15ufshKvon6Qd7S2ZoW8LnyIROVvCfi85/view?usp=sharing), ([questions](https://docs.google.com/document/d/1m1BqJG0m4JjiaVsdi0UMFAcH5r3GYGCsssprXgBnmUY/edit?usp=sharing)) </br>
-   Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
+
+ - **April** TBD
  
 ## Past sessions
+
+### 2024
+ - **March 13** [Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)](https://drive.google.com/file/d/15ufshKvon6Qd7S2ZoW8LnyIROVvCfi85/view?usp=sharing), ([questions](https://docs.google.com/document/d/1m1BqJG0m4JjiaVsdi0UMFAcH5r3GYGCsssprXgBnmUY/edit?usp=sharing)) </br>
+   Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
+
 
 ### 2023
  -  **April 21** Source Code Diff Revolution, ([questions](https://docs.google.com/document/d/1OCutCmaHb-birSPHMq1GVnXqHhfIxiu8ysfrpC52z58/edit)) </br>
