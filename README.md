@@ -4,7 +4,8 @@ Discuss papers on data-driven methods in Software Engineering and Machine Learni
 
 ## Upcoming sessions
 
- - **April** TBD
+ - **May 10th** [Language Models for Code Completion: A Practical Evaluation](https://arxiv.org/abs/2402.16197) </br>
+    Jonathan Katzy, PhD candidate in the Software Engineering Reasearch Group (SERG) at TU Delft
  
 ## Past sessions
 
