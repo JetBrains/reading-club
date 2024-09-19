@@ -3,7 +3,8 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - TBD
+ - **Oct 10** paper TBD </br>
+   Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
  
 ## Past sessions
 
