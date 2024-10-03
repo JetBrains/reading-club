@@ -3,7 +3,10 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - **Oct 10** paper TBD </br>
+ - **Oct 10** Two for the price of one
+    * [Fact Selection Problem in LLM-Based Program Repair](https://arxiv.org/pdf/2404.05520)
+    * [CodeGrid: A Grid Representation of Code](https://discovery.ucl.ac.uk/id/eprint/10175716/1/3597926.3598141.pdf) ([questions](https://docs.google.com/document/d/1F0DXUs8nfnwEUEPCAwNqivMWg4NIi1PIh1dpvjqATS4/edit))
+ 
    Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
  
 ## Past sessions
@@ -77,7 +80,7 @@ Monthly, on Fridays
 
 ## Where
 
-- online ([here](https://meet.google.com/azw-atrp-mag))
+- online ([here](https://meet.google.com/azt-gvmb-goe))
 
 
 ## How to participate
