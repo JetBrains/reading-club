@@ -3,9 +3,10 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - **Oct 10** Two for the price of one
-    * [Fact Selection Problem in LLM-Based Program Repair](https://arxiv.org/pdf/2404.05520)
-    * [CodeGrid: A Grid Representation of Code](https://discovery.ucl.ac.uk/id/eprint/10175716/1/3597926.3598141.pdf) ([questions](https://docs.google.com/document/d/1F0DXUs8nfnwEUEPCAwNqivMWg4NIi1PIh1dpvjqATS4/edit))
+ - **Oct 10, 18:00 CET** ([online](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N21jYmY1Mmpqa21iYmR2N2gxbmc3bmgxczIgY183MDczNDllNWYwN2UzYzcwYWQ2Nzk3OTBlODU4NzhlZDgyMTkyMjY3YWVjNThjZWJlNzU0YmRiNzhmMWY4ZTgxQGc&tmsrc=c_707349e5f07e3c70ad679790e85878ed82192267aec58cebe754bdb78f1f8e81%40group.calendar.google.com), [in-person](https://www.meetup.com/jetbrains-reading-club-nl/events/303803178/))</br>
+Two for the price of one:
+   * [Fact Selection Problem in LLM-Based Program Repair](https://arxiv.org/pdf/2404.05520)
+   * [CodeGrid: A Grid Representation of Code](https://discovery.ucl.ac.uk/id/eprint/10175716/1/3597926.3598141.pdf) ([questions](https://docs.google.com/document/d/1F0DXUs8nfnwEUEPCAwNqivMWg4NIi1PIh1dpvjqATS4/edit))
  
    Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
  
