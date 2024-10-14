@@ -3,16 +3,17 @@
 Discuss papers on data-driven methods in Software Engineering and Machine Learning.
 
 ## Upcoming sessions
- - **Oct 10, 18:00 CET** ([online](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N21jYmY1Mmpqa21iYmR2N2gxbmc3bmgxczIgY183MDczNDllNWYwN2UzYzcwYWQ2Nzk3OTBlODU4NzhlZDgyMTkyMjY3YWVjNThjZWJlNzU0YmRiNzhmMWY4ZTgxQGc&tmsrc=c_707349e5f07e3c70ad679790e85878ed82192267aec58cebe754bdb78f1f8e81%40group.calendar.google.com), [in-person](https://www.meetup.com/jetbrains-reading-club-nl/events/303803178/))</br>
-Two for the price of one:
-   * [Fact Selection Problem in LLM-Based Program Repair](https://arxiv.org/pdf/2404.05520)
-   * [CodeGrid: A Grid Representation of Code](https://discovery.ucl.ac.uk/id/eprint/10175716/1/3597926.3598141.pdf) ([questions](https://docs.google.com/document/d/1F0DXUs8nfnwEUEPCAwNqivMWg4NIi1PIh1dpvjqATS4/edit))
- 
-   Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
+ - TBD
  
 ## Past sessions
 
 ### 2024
+ - **Oct 18, 18:00 CET** Two for the price of one ([questions](https://docs.google.com/document/d/1F0DXUs8nfnwEUEPCAwNqivMWg4NIi1PIh1dpvjqATS4/edit))
+   * [Fact Selection Problem in LLM-Based Program Repair](https://arxiv.org/pdf/2404.05520)
+   * [CodeGrid: A Grid Representation of Code](https://discovery.ucl.ac.uk/id/eprint/10175716/1/3597926.3598141.pdf)
+ 
+   Prof. Earl Barr, head of UCL's "System Software Engineering" group, London, UK
+
  - **May 10** [Language Models for Code Completion: A Practical Evaluation](https://arxiv.org/abs/2402.16197), ([questions](https://docs.google.com/document/d/1J4GFZ7Z0fq37F1x6EYB9DSvEPhqo2zPp09iz7sqJqTY/edit?usp=sharing)) </br>
     Jonathan Katzy, PhD candidate in the Software Engineering Reasearch Group (SERG) at TU Delft
 
